@@ -2,7 +2,7 @@
   "name": "music-player",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/qwertyyb/music-player",
+  "homepage": "https://qwertyyb.github.io/music-player",
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@tailwindcss/postcss7-compat": "^2.0.3",
