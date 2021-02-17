@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/qwertyyb/music-player/static/css/main.e497f857.chunk.css",
-    "main.js": "/qwertyyb/music-player/static/js/main.3ddb3042.chunk.js",
-    "main.js.map": "/qwertyyb/music-player/static/js/main.3ddb3042.chunk.js.map",
-    "runtime-main.js": "/qwertyyb/music-player/static/js/runtime-main.e41bd64c.js",
-    "runtime-main.js.map": "/qwertyyb/music-player/static/js/runtime-main.e41bd64c.js.map",
-    "static/js/2.483de404.chunk.js": "/qwertyyb/music-player/static/js/2.483de404.chunk.js",
-    "static/js/2.483de404.chunk.js.map": "/qwertyyb/music-player/static/js/2.483de404.chunk.js.map",
-    "static/js/3.c7664df4.chunk.js": "/qwertyyb/music-player/static/js/3.c7664df4.chunk.js",
-    "static/js/3.c7664df4.chunk.js.map": "/qwertyyb/music-player/static/js/3.c7664df4.chunk.js.map",
-    "index.html": "/qwertyyb/music-player/index.html",
-    "service-worker.js": "/qwertyyb/music-player/service-worker.js",
-    "service-worker.js.map": "/qwertyyb/music-player/service-worker.js.map",
-    "static/css/main.e497f857.chunk.css.map": "/qwertyyb/music-player/static/css/main.e497f857.chunk.css.map",
-    "static/js/2.483de404.chunk.js.LICENSE.txt": "/qwertyyb/music-player/static/js/2.483de404.chunk.js.LICENSE.txt"
+    "main.css": "/music-player/static/css/main.e497f857.chunk.css",
+    "main.js": "/music-player/static/js/main.e8eaeb2b.chunk.js",
+    "main.js.map": "/music-player/static/js/main.e8eaeb2b.chunk.js.map",
+    "runtime-main.js": "/music-player/static/js/runtime-main.26b6b619.js",
+    "runtime-main.js.map": "/music-player/static/js/runtime-main.26b6b619.js.map",
+    "static/js/2.483de404.chunk.js": "/music-player/static/js/2.483de404.chunk.js",
+    "static/js/2.483de404.chunk.js.map": "/music-player/static/js/2.483de404.chunk.js.map",
+    "static/js/3.c7664df4.chunk.js": "/music-player/static/js/3.c7664df4.chunk.js",
+    "static/js/3.c7664df4.chunk.js.map": "/music-player/static/js/3.c7664df4.chunk.js.map",
+    "index.html": "/music-player/index.html",
+    "service-worker.js": "/music-player/service-worker.js",
+    "service-worker.js.map": "/music-player/service-worker.js.map",
+    "static/css/main.e497f857.chunk.css.map": "/music-player/static/css/main.e497f857.chunk.css.map",
+    "static/js/2.483de404.chunk.js.LICENSE.txt": "/music-player/static/js/2.483de404.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e41bd64c.js",
+    "static/js/runtime-main.26b6b619.js",
     "static/js/2.483de404.chunk.js",
     "static/css/main.e497f857.chunk.css",
-    "static/js/main.3ddb3042.chunk.js"
+    "static/js/main.e8eaeb2b.chunk.js"
   ]
 }
