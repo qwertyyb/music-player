@@ -1,0 +1,22 @@
+.component-play-list {
+  height: 50vh;
+  overflow: auto;
+  .play-list {
+    height: 100%;
+    overflow: auto;
+  }
+  .play-list-item.playing {
+    .item-title, .item-artist, .item-playing-icon {
+      @apply text-green-500;
+    }
+    .item-remove-icon {
+      @apply hidden;
+    }
+    .item-playing-icon {
+      @apply block;
+    }
+  }
+  .play-list-item + .play-list-item {
+    border-top: 1px solid #888;
+  }
+}

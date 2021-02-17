@@ -1,0 +1,38 @@
+.view-player {
+  .slide-down {
+    &-enter {
+      bottom: -80px;
+    }
+    &-enter-active {
+      transition: bottom .2s;
+      bottom: 0;
+    }
+    &-exit {
+      bottom: 0;
+    }
+    &-exit-active {
+      bottom: -80px;
+      transition: bottom .2s;
+    }
+    &-exit-done {
+      bottom: -80px;
+    }
+  }
+  .slide-up-enter {
+    transform: translateY(100vh);
+  }
+  .slide-up-enter-active {
+    transform: translateY(0);
+    transition: transform 200ms linear;
+  }
+  .slide-up-enter-done {
+    transform: translateY(0);
+  }
+  .slide-up-exit {
+    transform: translateY(0);
+  }
+  .slide-up-exit-active {
+    transform: translateY(100vh);
+    transition: transform 200ms linear;
+  }
+}

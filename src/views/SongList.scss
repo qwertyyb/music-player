@@ -1,0 +1,17 @@
+.view-song-list {
+  .song-item.active {
+    .song-title {
+      @apply text-green-600;
+    }
+    .song-artist {
+      @apply text-green-600;
+      @apply opacity-80;
+    }
+    .playing-icon {
+      @apply block;
+    }
+    i {
+      @apply text-green-600;
+    }
+  }
+}
